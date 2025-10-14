@@ -27,9 +27,5 @@ public class Third {
         System.out.println(res2); // returns 10 that is 1010
         System.out.println(Integer.toBinaryString(res2));
 
-        int res3 = a >>> 2 ;
-
-
-
     }
 }
